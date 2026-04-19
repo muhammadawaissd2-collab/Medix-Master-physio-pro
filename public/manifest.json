@@ -1,0 +1,19 @@
+{
+  "name": "PT Blueprint Pro",
+  "short_name": "PT Blueprint",
+  "description": "Evidence-Based Physiotherapy Clinical Reference — Exercises, Muscles, Impairments, EBP Guidelines, Sports Injuries & Books. Works offline.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0d1117",
+  "theme_color": "#14b8a6",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "/placeholder.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["medical", "health", "education"]
+}
